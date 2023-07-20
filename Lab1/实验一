@@ -7,16 +7,19 @@ Lab1：
 5.右键.vt文件，点击properties,点击Verilog&systemVerilog，点击include directory，将文件路径选择为比work大一级的路径
 6.编译后仿真，将tob_tb拉到wave栏里（把信号输入），点击run all进行仿真
 实验结果：
- 
+ ![]()
 https://blog.csdn.net/acto__/article/details/127878921
 （  vopt +acc work.transtb -o opt -debugdb
 vsim -debugdb[=<dbname>] <optimized_design_name>
 加载命令运行后，会进入仿真界面，通过View->Schematic打开原理图窗口，点击左上角标识，View：Incremental，再点击Follow即可打开原理图。）
 采用如上链接生成的网表电路图
- 
+![]()
+![]()
+![]()
 
  
  
 三个模块原理：
-   
-
+![]()
+![]()
+![]()
